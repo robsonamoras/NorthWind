@@ -56,3 +56,21 @@ C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\
 C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
 C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.exe
 C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\aa\FormPrincipal.resources.dll
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.dll
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.pdb
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\aa\FormPrincipal.resources.dll
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\Northwind.Win.frmPrincipal.resources
+C:\Users\Scorpion\Desktop\NorthWind\FormPrincipal\obj\Debug\Northwind.Win.frmPrincipal.aa.resources
