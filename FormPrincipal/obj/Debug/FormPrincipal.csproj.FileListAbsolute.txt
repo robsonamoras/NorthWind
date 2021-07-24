@@ -1,0 +1,58 @@
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.dll
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.pdb
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\Northwind.Win.Form1.resources
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\Northwind.Win.Form1.resources
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\bin\Debug\Northwind.entities.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\Northwind.Win.Form1.resources
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\FormPrincipal\obj\Debug\FormPrincipal.pdb

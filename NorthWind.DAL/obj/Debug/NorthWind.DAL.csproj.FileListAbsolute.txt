@@ -1,0 +1,33 @@
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.dll
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.pdb
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.AssemblyReference.cache
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.dll
+C:\Users\pc-marcos\Desktop\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.AssemblyReference.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CopyComplete
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.AssemblyReference.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.pdb
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.AssemblyReference.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.pdb

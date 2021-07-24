@@ -1,0 +1,6 @@
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\Northwind.entities\bin\Debug\Northwind.entities.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\Northwind.entities\bin\Debug\Northwind.entities.pdb
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\Northwind.entities\obj\Debug\NorthWind.Entities.csproj.AssemblyReference.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\Northwind.entities\obj\Debug\NorthWind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\Northwind.entities\obj\Debug\Northwind.entities.dll
+C:\Users\Guilherme dos Santos\Downloads\NorthWind\NorthWind\Northwind.entities\obj\Debug\Northwind.entities.pdb
