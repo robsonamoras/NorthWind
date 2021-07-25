@@ -122,7 +122,7 @@
     <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
   </data>
   <data name="MostraTudo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>426, 29</value>
+    <value>426, 40</value>
   </data>
   <data name="MostraTudo.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -144,13 +144,13 @@
     <value>tabConsultar</value>
   </data>
   <data name="&gt;&gt;MostraTudo.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="BuscaPorPais.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 9.75pt, style=Bold</value>
   </data>
   <data name="BuscaPorPais.Location" type="System.Drawing.Point, System.Drawing">
-    <value>320, 28</value>
+    <value>320, 39</value>
   </data>
   <data name="BuscaPorPais.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -171,7 +171,7 @@
     <value>tabConsultar</value>
   </data>
   <data name="&gt;&gt;BuscaPorPais.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="Inserir.Location" type="System.Drawing.Point, System.Drawing">
     <value>411, 289</value>
@@ -180,7 +180,7 @@
     <value>100, 30</value>
   </data>
   <data name="Inserir.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
+    <value>11</value>
   </data>
   <data name="Inserir.Text" xml:space="preserve">
     <value>Inserir</value>
@@ -204,7 +204,7 @@
     <value>100, 30</value>
   </data>
   <data name="Excluir.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
+    <value>12</value>
   </data>
   <data name="Excluir.Text" xml:space="preserve">
     <value>Excluir</value>
@@ -231,7 +231,7 @@
     <value>308, 24</value>
   </data>
   <data name="txtNomeContato.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="&gt;&gt;txtNomeContato.Name" xml:space="preserve">
     <value>txtNomeContato</value>
@@ -255,7 +255,7 @@
     <value>379, 24</value>
   </data>
   <data name="txtNomeCliente.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="&gt;&gt;txtNomeCliente.Name" xml:space="preserve">
     <value>txtNomeCliente</value>
@@ -269,9 +269,6 @@
   <data name="&gt;&gt;txtNomeCliente.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="txtCodigoCliente.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="txtCodigoCliente.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt, style=Bold</value>
   </data>
@@ -282,7 +279,7 @@
     <value>105, 24</value>
   </data>
   <data name="txtCodigoCliente.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+    <value>0</value>
   </data>
   <data name="&gt;&gt;txtCodigoCliente.Name" xml:space="preserve">
     <value>txtCodigoCliente</value>
@@ -315,7 +312,7 @@
     <value>tabConsultar</value>
   </data>
   <data name="&gt;&gt;dtClientes.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="lblEmpresa.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -454,7 +451,7 @@
     <value>176, 24</value>
   </data>
   <data name="txtCargoDoContato.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="&gt;&gt;txtCargoDoContato.Name" xml:space="preserve">
     <value>txtCargoDoContato</value>
@@ -511,7 +508,7 @@
     <value>490, 24</value>
   </data>
   <data name="txtLogradouro.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="&gt;&gt;txtLogradouro.Name" xml:space="preserve">
     <value>txtLogradouro</value>
@@ -535,7 +532,7 @@
     <value>228, 24</value>
   </data>
   <data name="txtCidade.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="&gt;&gt;txtCidade.Name" xml:space="preserve">
     <value>txtCidade</value>
@@ -615,28 +612,28 @@
   <data name="&gt;&gt;lblEstado.ZOrder" xml:space="preserve">
     <value>17</value>
   </data>
-  <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="txtEstado.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
-  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="txtEstado.Location" type="System.Drawing.Point, System.Drawing">
     <value>255, 198</value>
   </data>
-  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="txtEstado.Size" type="System.Drawing.Size, System.Drawing">
     <value>58, 24</value>
   </data>
-  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="txtEstado.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
-  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
-    <value>textBox1</value>
+  <data name="&gt;&gt;txtEstado.Name" xml:space="preserve">
+    <value>txtEstado</value>
   </data>
-  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+  <data name="&gt;&gt;txtEstado.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;txtEstado.Parent" xml:space="preserve">
     <value>tabCadastrar</value>
   </data>
-  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;txtEstado.ZOrder" xml:space="preserve">
     <value>19</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
@@ -649,7 +646,7 @@
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>319, 178</value>
+    <value>21, 225</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>41, 18</value>
@@ -676,10 +673,10 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="txtCEP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>21, 246</value>
+    <value>322, 198</value>
   </data>
   <data name="txtCEP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>158, 24</value>
+    <value>189, 24</value>
   </data>
   <data name="txtCEP.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -706,7 +703,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblTelefone.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 225</value>
+    <value>216, 225</value>
   </data>
   <data name="lblTelefone.Size" type="System.Drawing.Size, System.Drawing">
     <value>73, 18</value>
@@ -729,28 +726,28 @@
   <data name="&gt;&gt;lblTelefone.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="textBox3.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="txtTelefone.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
-  <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>185, 246</value>
+  <data name="txtTelefone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>219, 246</value>
   </data>
-  <data name="textBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>144, 24</value>
+  <data name="txtTelefone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 24</value>
   </data>
-  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+  <data name="txtTelefone.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
   </data>
-  <data name="&gt;&gt;textBox3.Name" xml:space="preserve">
-    <value>textBox3</value>
+  <data name="&gt;&gt;txtTelefone.Name" xml:space="preserve">
+    <value>txtTelefone</value>
   </data>
-  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
+  <data name="&gt;&gt;txtTelefone.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
+  <data name="&gt;&gt;txtTelefone.Parent" xml:space="preserve">
     <value>tabCadastrar</value>
   </data>
-  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;txtTelefone.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
   <data name="lblCEP.AutoSize" type="System.Boolean, mscorlib">
@@ -763,7 +760,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblCEP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 225</value>
+    <value>319, 177</value>
   </data>
   <data name="lblCEP.Size" type="System.Drawing.Size, System.Drawing">
     <value>42, 18</value>
@@ -796,7 +793,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblCelular.Location" type="System.Drawing.Point, System.Drawing">
-    <value>332, 225</value>
+    <value>349, 225</value>
   </data>
   <data name="lblCelular.Size" type="System.Drawing.Size, System.Drawing">
     <value>61, 18</value>
@@ -823,13 +820,13 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="txtCelular.Location" type="System.Drawing.Point, System.Drawing">
-    <value>335, 246</value>
+    <value>352, 246</value>
   </data>
   <data name="txtCelular.Size" type="System.Drawing.Size, System.Drawing">
-    <value>176, 24</value>
+    <value>159, 24</value>
   </data>
   <data name="txtCelular.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
+    <value>10</value>
   </data>
   <data name="&gt;&gt;txtCelular.Name" xml:space="preserve">
     <value>txtCelular</value>
@@ -847,13 +844,13 @@
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
   <data name="txtCadastrarPais.Location" type="System.Drawing.Point, System.Drawing">
-    <value>319, 199</value>
+    <value>21, 246</value>
   </data>
   <data name="txtCadastrarPais.Size" type="System.Drawing.Size, System.Drawing">
     <value>192, 24</value>
   </data>
   <data name="txtCadastrarPais.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
+    <value>8</value>
   </data>
   <data name="&gt;&gt;txtCadastrarPais.Name" xml:space="preserve">
     <value>txtCadastrarPais</value>
@@ -894,17 +891,29 @@
   <data name="&gt;&gt;tabCadastrar.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="txtPais.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt</value>
+  <data name="&gt;&gt;rbtPais.Name" xml:space="preserve">
+    <value>rbtPais</value>
   </data>
-  <data name="txtPais.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 28</value>
+  <data name="&gt;&gt;rbtPais.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="txtPais.Size" type="System.Drawing.Size, System.Drawing">
-    <value>308, 24</value>
+  <data name="&gt;&gt;rbtPais.Parent" xml:space="preserve">
+    <value>tabConsultar</value>
   </data>
-  <data name="txtPais.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="&gt;&gt;rbtPais.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.Name" xml:space="preserve">
+    <value>rbtCliente</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.Parent" xml:space="preserve">
+    <value>tabConsultar</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="&gt;&gt;txtPais.Name" xml:space="preserve">
     <value>txtPais</value>
@@ -916,7 +925,7 @@
     <value>tabConsultar</value>
   </data>
   <data name="&gt;&gt;txtPais.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <data name="tabConsultar.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 27</value>
@@ -968,6 +977,90 @@
   </data>
   <data name="&gt;&gt;tabSistema.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="rbtPais.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtPais.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rbtPais.Location" type="System.Drawing.Point, System.Drawing">
+    <value>198, 11</value>
+  </data>
+  <data name="rbtPais.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 22</value>
+  </data>
+  <data name="rbtPais.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="rbtPais.Text" xml:space="preserve">
+    <value>Pais</value>
+  </data>
+  <data name="&gt;&gt;rbtPais.Name" xml:space="preserve">
+    <value>rbtPais</value>
+  </data>
+  <data name="&gt;&gt;rbtPais.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtPais.Parent" xml:space="preserve">
+    <value>tabConsultar</value>
+  </data>
+  <data name="&gt;&gt;rbtPais.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rbtCliente.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtCliente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 11</value>
+  </data>
+  <data name="rbtCliente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 22</value>
+  </data>
+  <data name="rbtCliente.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="rbtCliente.Text" xml:space="preserve">
+    <value>Cliente</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.Name" xml:space="preserve">
+    <value>rbtCliente</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.Parent" xml:space="preserve">
+    <value>tabConsultar</value>
+  </data>
+  <data name="&gt;&gt;rbtCliente.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtPais.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="txtPais.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="txtPais.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 39</value>
+  </data>
+  <data name="txtPais.Size" type="System.Drawing.Size, System.Drawing">
+    <value>308, 24</value>
+  </data>
+  <data name="txtPais.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;txtPais.Name" xml:space="preserve">
+    <value>txtPais</value>
+  </data>
+  <data name="&gt;&gt;txtPais.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtPais.Parent" xml:space="preserve">
+    <value>tabConsultar</value>
+  </data>
+  <data name="&gt;&gt;txtPais.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

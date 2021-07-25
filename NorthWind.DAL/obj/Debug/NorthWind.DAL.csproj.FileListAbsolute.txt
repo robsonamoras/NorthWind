@@ -31,3 +31,12 @@ C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\
 C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CopyComplete
 C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.dll
 C:\Users\Scorpion\Desktop\Projeto Northwind - Copia\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\bin\Debug\NorthWind.DAL.pdb
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.dll
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\bin\Debug\Northwind.entities.pdb
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.AssemblyReference.cache
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.csproj.CopyComplete
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.dll
+C:\Users\Scorpion\Desktop\NorthWind\NorthWind.DAL\obj\Debug\NorthWind.DAL.pdb

@@ -48,11 +48,11 @@ namespace Northwind.Win
             this.txtCidade = new System.Windows.Forms.TextBox();
             this.lblCidade = new System.Windows.Forms.Label();
             this.lblEstado = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtEstado = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txtCEP = new System.Windows.Forms.TextBox();
             this.lblTelefone = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtTelefone = new System.Windows.Forms.TextBox();
             this.lblCEP = new System.Windows.Forms.Label();
             this.lblCelular = new System.Windows.Forms.Label();
             this.txtCelular = new System.Windows.Forms.TextBox();
@@ -60,6 +60,8 @@ namespace Northwind.Win
             this.tabCadastrar = new System.Windows.Forms.TabPage();
             this.txtCadastrarPais = new System.Windows.Forms.TextBox();
             this.tabConsultar = new System.Windows.Forms.TabPage();
+            this.rbtPais = new System.Windows.Forms.RadioButton();
+            this.rbtCliente = new System.Windows.Forms.RadioButton();
             this.txtPais = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtClientes)).BeginInit();
             this.tabSistema.SuspendLayout();
@@ -86,12 +88,14 @@ namespace Northwind.Win
             resources.ApplyResources(this.Inserir, "Inserir");
             this.Inserir.Name = "Inserir";
             this.Inserir.UseVisualStyleBackColor = true;
+            this.Inserir.Click += new System.EventHandler(this.Inserir_Click);
             // 
             // Excluir
             // 
             resources.ApplyResources(this.Excluir, "Excluir");
             this.Excluir.Name = "Excluir";
             this.Excluir.UseVisualStyleBackColor = true;
+            this.Excluir.Click += new System.EventHandler(this.Excluir_Click);
             // 
             // txtNomeContato
             // 
@@ -114,6 +118,7 @@ namespace Northwind.Win
             this.dtClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             resources.ApplyResources(this.dtClientes, "dtClientes");
             this.dtClientes.Name = "dtClientes";
+            this.dtClientes.DoubleClick += new System.EventHandler(this.dtClientes_DoubleClick);
             // 
             // lblEmpresa
             // 
@@ -165,10 +170,10 @@ namespace Northwind.Win
             resources.ApplyResources(this.lblEstado, "lblEstado");
             this.lblEstado.Name = "lblEstado";
             // 
-            // textBox1
+            // txtEstado
             // 
-            resources.ApplyResources(this.textBox1, "textBox1");
-            this.textBox1.Name = "textBox1";
+            resources.ApplyResources(this.txtEstado, "txtEstado");
+            this.txtEstado.Name = "txtEstado";
             // 
             // label2
             // 
@@ -185,10 +190,10 @@ namespace Northwind.Win
             resources.ApplyResources(this.lblTelefone, "lblTelefone");
             this.lblTelefone.Name = "lblTelefone";
             // 
-            // textBox3
+            // txtTelefone
             // 
-            resources.ApplyResources(this.textBox3, "textBox3");
-            this.textBox3.Name = "textBox3";
+            resources.ApplyResources(this.txtTelefone, "txtTelefone");
+            this.txtTelefone.Name = "txtTelefone";
             // 
             // lblCEP
             // 
@@ -227,7 +232,7 @@ namespace Northwind.Win
             this.tabCadastrar.Controls.Add(this.lblCEP);
             this.tabCadastrar.Controls.Add(this.lblTelefone);
             this.tabCadastrar.Controls.Add(this.lblEmpresa);
-            this.tabCadastrar.Controls.Add(this.textBox3);
+            this.tabCadastrar.Controls.Add(this.txtTelefone);
             this.tabCadastrar.Controls.Add(this.lblNomeDoContato);
             this.tabCadastrar.Controls.Add(this.label2);
             this.tabCadastrar.Controls.Add(this.lblCargoDoContato);
@@ -235,7 +240,7 @@ namespace Northwind.Win
             this.tabCadastrar.Controls.Add(this.lblCodigo);
             this.tabCadastrar.Controls.Add(this.lblEstado);
             this.tabCadastrar.Controls.Add(this.txtCargoDoContato);
-            this.tabCadastrar.Controls.Add(this.textBox1);
+            this.tabCadastrar.Controls.Add(this.txtEstado);
             this.tabCadastrar.Controls.Add(this.txtLogradouro);
             this.tabCadastrar.Controls.Add(this.lblCidade);
             this.tabCadastrar.Controls.Add(this.lblLogradouro);
@@ -251,12 +256,29 @@ namespace Northwind.Win
             // tabConsultar
             // 
             this.tabConsultar.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.tabConsultar.Controls.Add(this.rbtPais);
+            this.tabConsultar.Controls.Add(this.rbtCliente);
             this.tabConsultar.Controls.Add(this.txtPais);
             this.tabConsultar.Controls.Add(this.dtClientes);
             this.tabConsultar.Controls.Add(this.MostraTudo);
             this.tabConsultar.Controls.Add(this.BuscaPorPais);
             resources.ApplyResources(this.tabConsultar, "tabConsultar");
             this.tabConsultar.Name = "tabConsultar";
+            // 
+            // rbtPais
+            // 
+            resources.ApplyResources(this.rbtPais, "rbtPais");
+            this.rbtPais.Name = "rbtPais";
+            this.rbtPais.TabStop = true;
+            this.rbtPais.UseVisualStyleBackColor = true;
+            this.rbtPais.CheckedChanged += new System.EventHandler(this.rbtPais_CheckedChanged_1);
+            // 
+            // rbtCliente
+            // 
+            resources.ApplyResources(this.rbtCliente, "rbtCliente");
+            this.rbtCliente.Name = "rbtCliente";
+            this.rbtCliente.UseVisualStyleBackColor = true;
+            this.rbtCliente.CheckedChanged += new System.EventHandler(this.rbtCliente_CheckedChanged_1);
             // 
             // txtPais
             // 
@@ -302,11 +324,11 @@ namespace Northwind.Win
         private System.Windows.Forms.TextBox txtCidade;
         private System.Windows.Forms.Label lblCidade;
         private System.Windows.Forms.Label lblEstado;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtEstado;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtCEP;
         private System.Windows.Forms.Label lblTelefone;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtTelefone;
         private System.Windows.Forms.Label lblCEP;
         private System.Windows.Forms.Label lblCelular;
         private System.Windows.Forms.TextBox txtCelular;
@@ -315,6 +337,8 @@ namespace Northwind.Win
         private System.Windows.Forms.TabPage tabConsultar;
         private System.Windows.Forms.TextBox txtCadastrarPais;
         private System.Windows.Forms.TextBox txtPais;
+        private System.Windows.Forms.RadioButton rbtCliente;
+        private System.Windows.Forms.RadioButton rbtPais;
     }
 }
 

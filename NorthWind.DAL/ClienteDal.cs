@@ -57,7 +57,7 @@ namespace NorthWind.DAL
             SqlConnection conn = Conexao.Instancia.GetConexao();
             
             string str = @"SELECT * FROM Customers
-	        WHERE CompanyName LIKE '%@NomeCliente%';";
+	        WHERE CompanyName = @NomeCliente;";
             SqlCommand sql = new SqlCommand(str, conn);
             sql.CommandType = CommandType.Text;
             sql.Parameters.Add("@NomeCliente", SqlDbType.NVarChar).Value = nome;
@@ -71,18 +71,29 @@ namespace NorthWind.DAL
             return dt;
         }
 
-        public bool AdicionarCliente(string nome, string id)
+        public bool AdicionarCliente(string id, string empresa, string nomeContato, string cargo,
+                                     string logradouro, string cidade, string estado, string cep,
+                                     string pais, string telefone, string celular)
         {
             SqlConnection conn = Conexao.Instancia.GetConexao();
             
             string str = @"INSERT INTO Customers 
-            (CustomerID, CompanyName)
-            VALUES('@CustomerID', '@CompanyName');";
+            (CustomerID, CompanyName, ContactName, ContactTitle, Address, City, Region, PostalCode, Country,Phone, Fax)
+            VALUES('@CustomerID', '@CompanyName', '@ContactName', '@ContactTitle', '@Address', '@City', '@Region', '@PostalCode', '@Country','@Phone', '@Fax' );";
 
             SqlCommand sql = new SqlCommand(str, conn);
             sql.CommandType = CommandType.Text;
             sql.Parameters.Add("@CustomerID", SqlDbType.NVarChar).Value = id;
-            sql.Parameters.Add("@CompanyName", SqlDbType.NVarChar).Value = nome;
+            sql.Parameters.Add("@CompanyName", SqlDbType.NVarChar).Value = empresa;
+            sql.Parameters.Add("@ContactName", SqlDbType.NVarChar).Value = nomeContato;
+            sql.Parameters.Add("@ContactTitle", SqlDbType.NVarChar).Value = cargo;
+            sql.Parameters.Add("@Address", SqlDbType.NVarChar).Value = logradouro;
+            sql.Parameters.Add("@City", SqlDbType.NVarChar).Value = cidade;
+            sql.Parameters.Add("@Region", SqlDbType.NVarChar).Value = estado;
+            sql.Parameters.Add("@PostalCode", SqlDbType.NVarChar).Value = cep;
+            sql.Parameters.Add("@Country", SqlDbType.NVarChar).Value = pais;
+            sql.Parameters.Add("@Phone", SqlDbType.NVarChar).Value = telefone;
+            sql.Parameters.Add("@Fax", SqlDbType.NVarChar).Value = celular;
 
             sql.ExecuteNonQuery();
             
